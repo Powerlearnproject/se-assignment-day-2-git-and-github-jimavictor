@@ -305,7 +305,7 @@ Using GitHub for version control is essential for collaboration, but new users o
 **Solution:**
 - Follow a clear commit message convention.
     ```sh
-        git commit -m "fix: resolve login bug (#123)"
+    git commit -m "fix: resolve login bug (#123)"
     ```
 - Use prefixes like feat: (feature), fix: (bug fix), docs: (documentation).
 
